@@ -1,5 +1,5 @@
-( •̀ ω •́ )✧
-![Surfing Nyan Cat](https://media1.tenor.com/m/XOSOCjqXcNIAAAAC/surfing-nyan-cat.gif)
+( •̀ ω •́ )✧ <br>
+<img src="https://media1.tenor.com/m/XOSOCjqXcNIAAAAC/surfing-nyan-cat.gif" alt="Surfing Nyan Cat" width="100"/>
 你好，我是饿梦～
 
 喜欢听音乐、喜欢看很多书，很多电影，喜欢到处乱跑、喜欢按快门、喜欢写一些没什么用的代码。
@@ -37,6 +37,7 @@ me = {
 
 
 <!-- 把旅途中拍的照片放这里 -->
+
 
 
 
