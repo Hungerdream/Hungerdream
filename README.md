@@ -1,5 +1,5 @@
 ( •̀ ω •́ )✧
-<div class="tenor-gif-embed" data-postid="6693631120763220178" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/surfing-nyan-cat-sunglasses-sunset-rainbows-gif-6693631120763220178">Surfing Nyan Cat GIF</a>from <a href="https://tenor.com/search/surfing-gifs">Surfing GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/zh-CN/view/surfing-nyan-cat-sunglasses-sunset-rainbows-gif-6693631120763220178" alt="Nyan Cat" width="360"/>
 你好，我是饿梦～
 
 喜欢听音乐、喜欢看很多书，很多电影，喜欢到处乱跑、喜欢按快门、喜欢写一些没什么用的代码。
@@ -37,6 +37,7 @@ me = {
 
 
 <!-- 把旅途中拍的照片放这里 -->
+
 
 
 
