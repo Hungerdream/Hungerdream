@@ -27,9 +27,16 @@ me = {
 
 **一些照片**
 
-<img src="images/2cbe81841cc770979640f41e53c34408.jpg" alt="2cbe81841cc770979640f41e53c34408" width="300"/>
+<table>
+  <tr>
+    <td><img src="images/2cbe81841cc770979640f41e53c34408.jpg" alt="2cbe81841cc770979640f41e53c34408" width="300"/></td>
+    <td><img src="images/45990ef7a69460f8f0ea7527aba2bb1b.jpg" alt="2cbe81841cc770979640f41e53c34408" width="300"/></td>
+    <td><img src="images/210772598bd5f415328081d0cd75763f.jpg" alt="2cbe81841cc770979640f41e53c34408" width="300"/></td>
+  </tr>
+</table>
 
 
 <!-- 把旅途中拍的照片放这里 -->
+
 
 
