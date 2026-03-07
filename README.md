@@ -27,6 +27,6 @@ me = {
 
 **一些巡礼照**
 
-<img src="C:\Users\Liu\Desktop\2cbe81841cc770979640f41e53c34408.jpg" alt="2cbe81841cc770979640f41e53c34408" style="zoom:50%;" />
+![2cbe81841cc770979640f41e53c34408](images/2cbe81841cc770979640f41e53c34408.jpg)
 
 <!-- 把旅途中拍的照片放这里 -->
