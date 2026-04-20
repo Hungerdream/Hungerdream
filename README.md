@@ -4,7 +4,7 @@
 
 喜欢听音乐、喜欢看很多书，很多电影，喜欢到处乱跑、喜欢按快门、喜欢写一些没什么用的代码。
 
-有一个 [博客](https://emdream.icu/) ，偶尔更新，不定期失联。
+ [博客(旧)](https://emdream.icu/) ， [博客(新)](https://hungerdream.github.io/)，偶尔更新，不定期失联。
 
 ```python
 me = {
